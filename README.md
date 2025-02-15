@@ -1,5 +1,5 @@
--👋 Hi, I’m Elnur, an aspiring iOS Developer passionate about learning and building impactful mobile apps.
--📚 Currently enhancing my skills in Swift, UIKit, and SwiftUI.
+-👋 Hi, I’m Elnur, an aspiring iOS Developer passionate about learning and building impactful mobile apps.                                                                                
+-📚 Currently enhancing my skills in Swift, UIKit, and SwiftUI.                                                                                                                           
 -💡 Open to collaboration, feedback, and sharing knowledge as I grow in the iOS development space.
 
 <!---
